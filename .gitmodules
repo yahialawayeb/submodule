@@ -1,0 +1,6 @@
+[submodule "Application-gestion-de-stock"]
+	path = Application-gestion-de-stock
+	url = https://github.com/yahialawayeb/Application-gestion-de-stock.git
+[submodule "mic_speecht5_tts"]
+	path = mic_speecht5_tts
+	url = https://github.com/yahialawayeb/mic_speecht5_tts.git
